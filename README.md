@@ -1,6 +1,6 @@
 # Osho Player
 
-A spiritual audio player built with Kotlin and Jetpack Compose that combines a long-form discourse player with a looping ambient audio layer, glassmorphism styling, and sleep timer controls.
+An intelligent audio player built with Kotlin and Jetpack Compose that combines a long-form discourse player with a looping ambient audio layer, glassmorphism styling (ios glass style effect), and sleep timer controls.
 
 ## Features
 - Dual-stream audio playback for discourse + ambient sound
